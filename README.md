@@ -1,0 +1,2 @@
+# Home-automation-and-energy-mangment-system
+This is my final form on this project, to describe it briefly it is a system that uses a raspberry pi 3b+ and arduino boards in order to create a system that monitors all parameters of a home and manages security and manages energy based on time based electricity prices while relaying all of this to a remote user interface which can be accessed from any device with a browsers all while uploading this data to a server mainly thingspeak but later switched to google drive.
